@@ -4,7 +4,10 @@
     "href": "index.html",
     "title": "Bristol Lodge Causeway SDA Church Clerk",
     "section": "",
-    "text": "This website is a conduit for for the sharing of minutes and notifications captured by the Church Clerk and their assistant.\nActive Church Clerk: Bro Richard Timmerman\nAssistant Church Clerk: Sis Ella De Jose\n\n\n\n\n\n\nWarning\n\n\n\nAccess to this resource is restricted to current members of the Church Board"
+    "text": "This website is a conduit for for the sharing of minutes and notifications captured by the Church Clerk and their assistant.\nActive Church Clerk: Bro Richard Timmerman\nAssistant Church Clerk: Sis Ella De Jose\n\n\n\n\n\n\nWarning\n\n\n\nAccess to this resource is restricted to current members of the Church Board",
+    "crumbs": [
+      "Home"
+    ]
   },
   {
     "objectID": "about.html",
@@ -33,10 +36,10 @@
     "href": "Board_Minutes.html",
     "title": "Board Minutes",
     "section": "",
-    "text": "This page contains links to archived Board Meeting minutes. These are PDFs that can be:\n\nViewed on a laptop/PC\nA mobile device (Phone/Tablet)\nPrinted to paper\n\n\n\n\n\n\n\nWarning\n\n\n\nMinutes are subject to revision at the behest of the Church Board. Please pass along any approved amendments to Bro. Richard Timmerman: richard.timmerman@googlemail.com.\n\n\n\nArchive\n\nJanuary 2026 -  Approved \nΜarch 2026 -  Approved \nApril 2026 -  Pending approval \nMay 2026 -  Edits incoming \nJuly 2026 -  Pending approval",
+    "text": "This page contains links to archived Board Meeting minutes. These are PDFs that can be:",
     "crumbs": [
       "Home",
-      "Board Minutes"
+      "Minutes"
     ]
   },
   {
@@ -63,5 +66,16 @@
     "title": "Board Minutes",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nMay show up late↩︎\nMay show up late↩︎"
+  },
+  {
+    "objectID": "Board_Minutes.html#archive",
+    "href": "Board_Minutes.html#archive",
+    "title": "Board Minutes",
+    "section": "Archive",
+    "text": "Archive\n\nJanuary 2026 -  Approved \nΜarch 2026 -  Approved \nApril 2026 -  Approved \nMay 2026 -  Approved following spelling edits \nJuly 2026 -  Approved \nSeptember 2026 -  Pending approval",
+    "crumbs": [
+      "Home",
+      "Minutes"
+    ]
   }
 ]
